@@ -40,6 +40,7 @@ Example: products in a sales table.
 
 
 **Result**
+
 | Toner    | Paper items | Stationery | 
 |----------|-------------|------------| 
 | 48793.00 | 37807.00    | 2005.15    | 
@@ -56,6 +57,7 @@ Example: products in a sales table.
     GROUP BY brand;
 
 **Result**
+
 | brand  | Toner    | Paper items | Stationery | 
 |--------|----------|-------------|------------| 
 | Edding | NULL     | NULL        | 2005.15    | 
@@ -75,6 +77,7 @@ Example: products in a sales table.
       )  AS PivotTable;
 
 **Result**
+
 | Toner    | Paper items | Stationery | 
 |----------|-------------|------------| 
 | 48793.00 | 37807.00    | 2005.15    | 
@@ -92,6 +95,7 @@ Example: products in a sales table.
      )  AS PivotTable;
 
 **Result**
+
 | brand  | Toner    | Paper items | Stationery | 
 |--------|----------|-------------|------------| 
 | Edding | NULL     | NULL        | 2005.15    | 
