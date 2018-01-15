@@ -10,7 +10,7 @@
 
 | Postgresql | MS SQL Server | MySQL | SQLite |MS Access
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-|[crosstab](www.postgresql.org/docs/current/static/tablefunc.html)| [PIVOT](docs.microsoft.com/en-us/sql/t-sql/queries/from-using-pivot-and-unpivot) |-|-| [TRANSFORM](msdn.microsoft.com/library/office/ff192901.aspx)
+|[crosstab](https://www.postgresql.org/docs/current/static/tablefunc.html)| [PIVOT](https://docs.microsoft.com/en-us/sql/t-sql/queries/from-using-pivot-and-unpivot) |-|-| [TRANSFORM](https://msdn.microsoft.com/library/office/ff192901.aspx)
 
 
 ## Base Table
