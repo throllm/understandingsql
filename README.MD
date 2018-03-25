@@ -14,3 +14,7 @@ See documentation [here](pivot/README.MD)
 
 See documentation [here](timetabling/README.MD)
 
+## CHECK CONSTRAINTS USING CUSTOM FUNCTIONS
+
+See documentation [here](check_with_function/README.MD)
+
