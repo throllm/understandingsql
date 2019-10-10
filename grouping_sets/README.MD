@@ -99,4 +99,4 @@ ROLLUP generates a result set that aggregates a hierarchy of values.
 | Sales      | Manager      | Male   | 2     | 3550           | 7100             | 
 | Sales      | Manager      | NULL   | 2     | 3550           | 7100             | 
 | Sales      | NULL         | NULL   | 3     | 3233           | 9700             | 
-| NULL       | NULL         | NULL   | 6     | 3083           | 18500            | 
+| **NULL**       | NULL         | NULL   | 6     | 3083           | **18500**            | 
